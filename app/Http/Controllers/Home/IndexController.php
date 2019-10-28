@@ -10,7 +10,7 @@ class IndexController extends Controller
 
     public function index()
     {
-        return '前台主页，暂无内容';
+        return '你好,ixman';
     }
 
 
